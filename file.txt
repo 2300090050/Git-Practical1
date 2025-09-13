@@ -1,1 +1,2 @@
 "This is the main branch initial file" 
+"Line from feature1 branch" 
